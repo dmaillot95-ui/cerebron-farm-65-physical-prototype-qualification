@@ -1,0 +1,13 @@
+{
+  "farm_id": 65,
+  "name": "cerebron-farm-65-physical-prototype-qualification",
+  "domain": "physical-prototype-qualification",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "physical-prototype",
+    "qualification-E5plus"
+  ],
+  "evidence_ceiling": "E2-without-physical-test",
+  "kernel": "dmaillot95-ui/cerebron-omega-ai"
+}
